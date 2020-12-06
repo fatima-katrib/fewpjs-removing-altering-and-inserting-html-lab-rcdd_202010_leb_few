@@ -4,5 +4,5 @@ main.remove();
 
 
 var newHeader=document.createElement('h1');
-newHeaderg.setAttribute("id", "victory");
+newHeader.setAttribute("id", "victory");
 
