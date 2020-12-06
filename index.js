@@ -3,6 +3,6 @@ let main=document.querySelector("main#main");
 main.remove();
 
 
-var newHeader=document.createElement('h1');
-newHeader.setAttribute("id", "victory");
+let newHeader=document.createElement('h1',{id});
+
 
